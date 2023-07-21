@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Sean Swaniawski",
+        "age": 31,
+        "salary": "82753.00",
+        "gender": "Male",
+        "hired_date": "2016-04-21",
+        "job_title": "Production Inspector",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 2,
+        "name": "Wendy Rowe",
+        "age": 41,
+        "salary": "69203.00",
+        "gender": "Male",
+        "hired_date": "2002-03-17",
+        "job_title": "Freight Inspector",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 3,
+        "name": "Dolly Hills",
+        "age": 47,
+        "salary": "67270.00",
+        "gender": "Male",
+        "hired_date": "1981-03-16",
+        "job_title": "Extruding and Drawing Machine Operator",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Hannah Thompson V",
+        "age": 23,
+        "salary": "81553.00",
+        "gender": "Male",
+        "hired_date": "1995-07-25",
+        "job_title": "Electrical Sales Representative",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Zander Walsh I",
+        "age": 23,
+        "salary": "66478.00",
+        "gender": "Male",
+        "hired_date": "1980-11-30",
+        "job_title": "Textile Machine Operator",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Wayne Borer I",
+        "age": 31,
+        "salary": "60247.00",
+        "gender": "Female",
+        "hired_date": "2021-07-13",
+        "job_title": "Therapist",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 7,
+        "name": "Tessie Wilkinson Jr.",
+        "age": 41,
+        "salary": "57207.00",
+        "gender": "Male",
+        "hired_date": "1976-10-03",
+        "job_title": "Tree Trimmer",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Cassidy Wintheiser",
+        "age": 39,
+        "salary": "63601.00",
+        "gender": "Female",
+        "hired_date": "2004-05-08",
+        "job_title": "Airframe Mechanic",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 9,
+        "name": "Junior Haag",
+        "age": 51,
+        "salary": "99692.00",
+        "gender": "Female",
+        "hired_date": "1984-05-19",
+        "job_title": "Shear Machine Set-Up Operator",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    },
+    {
+        "id": 10,
+        "name": "Bradford Nicolas",
+        "age": 56,
+        "salary": "94806.00",
+        "gender": "Female",
+        "hired_date": "1989-05-16",
+        "job_title": "Farmer",
+        "manager_id": null,
+        "created_at": "2023-07-20T20:50:36.000000Z",
+        "updated_at": "2023-07-20T20:50:36.000000Z"
+    }
+]
